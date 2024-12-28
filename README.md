@@ -5,4 +5,5 @@
 ![PyPI - Version](https://img.shields.io/badge/OpenAI_model-gpt_3.5_turbo-%23000055)
 
 # Creating_ChromaDBs_sepsis_related
-This is a repository that describes how to create sepsis-related Chroma DBs for Multiagent Approach and Apps
+This repository describes how to create sepsis-related vector stores, which can be used as a tool for retrieval-augmented generation within the Multiagent Approach.
+Created embedding databases are based on the [Chromadb platform](https://www.trychroma.com/). The embedding model is *BAAB-1.5-small* and the similarity function is represented by *cosine*.
