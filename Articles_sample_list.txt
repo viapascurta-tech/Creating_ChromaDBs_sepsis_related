@@ -1,0 +1,71 @@
+1.  Bader MZ, Obaid AT, Al-Khateb HM, Eldos YT, Elaya MM. Developing Adult Sepsis Protocol to Reduce the Time to Initial 
+Antibiotic Dose and Improve Outcomes among Patients with Cancer in Emergency Department. Asia Pac J Oncol Nurs 2020;7:355-60.
+
+2. Nora Bruns and Christian Dohna-Schwake, Antibiotics in critically ill children—a narrative review on
+different aspects of a rational approach, Pediatric Research (2022) 91:440–446; https://doi.org/10.1038/s41390-021-01878-9.
+
+3. Jean‑François Timsit et al. Rationalizing antimicrobial therapy in the ICU: a narrative review,
+Intensive Care Med (2019) 45:172–189, https://doi.org/10.1007/s00134-019-05520-5.
+
+4. Buckman, Sara A.; Turnbull, Isaiah R.; and Mazuski, John E., "Empiric antibiotics for sepsis." Surgical 
+Infections. 19, 2. 1-8. (2018). https://digitalcommons.wustl.edu/open_access_pubs/6498. 
+
+5. Jeffrey R. Strich, Emily L. Heil, and Henry Masur, Considerations for Empiric Antimicrobial Therapy 
+in Sepsis and Septic Shock in an Era of Antimicrobial Resistance. The Journal of Infectious Diseases, 2020:222 (Suppl 2) S119
+
+6. (Review art.) Fang-Fang He et al. Sepsis-induced AKI: From pathogenesis to therapeutic approaches, 
+Front. Pharmacol., Volume 13  2022, https://doi.org/10.3389/fphar.2022.981578
+
+7. (Systematic review) Liang H, Song H, Zhai R, Song G, Li H, Ding X, Kan Q and Sun T (2021) Corticosteroids for Treating
+Sepsis in Adult Patients: A Systematic Review and Meta-Analysis. Front. Immunol. 12:709155. doi: 10.3389/fimmu.2021.709155.
+
+8. (Review) Hwan Il Kim, and Sunghoon Park, Sepsis: Early Recognition and Optimized Treatment,
+Critical Care Medicine, Tuberculosis and Respiratory Diseases 2019;82(1):6-14. DOI: https://doi.org/10.4046/trd.2018.0041.
+
+9. (Review) Ramasco, F.; Méndez, R.; Suarez de la Rica, A.; González de Castro, R.; Maseda, E. Sepsis Stewardship: The Puzzle of
+Antibiotic Therapy in the Context of Individualization of Decision Making. J. Pers. Med. 2024, 14, 106. https://
+doi.org/10.3390/jpm14010106
+
+10. (Review) : Kamath, S.; Hammad Altaq, H.; Abdo, T. Management of Sepsis and Septic Shock: What Have We
+Learned in the Last Two Decades? Microorganisms 2023, 11, 2231. https://doi.org/10.3390/microorganisms11092231
+
+11. (Syst. Review) Choudhary R (2022) Sepsis Management, Controversies, and Advancement in Nanotechnology: A Systematic Review. 
+Cureus 14(2):e22112. DOI 10.7759/cureus.22112.
+
+12. Song X, Liu M, Waitman LR, Patel A, Simpson SQ (2021) Clinical factors associated with rapid treatment of sepsis. PLoS ONE 16(5):
+e0250923. https://doi.org/10.1371/journal.pone.0250923.
+
+13. (Review) Francesco Gavelli1, Luigi Mario Castello, Gian Carlo Avanzi. Management of sepsis and septic shock in the emergency 
+department.
+Internal and Emergency Medicine (2021) 16:1649–1661, https://doi.org/10.1007/s11739-021-02735-7.
+
+14. (Review) Marques, A.; Torre, C.; Pinto, R.; Sepodes, B.; Rocha, J. Treatment Advances in Sepsis and
+Septic Shock: Modulating Pro- and Anti-Inflammatory Mechanisms. J. Clin. Med. 2023, 12, 2892. https://doi.org/10.3390/jcm12082892.
+
+15. (Review) Ivana Srzić, Višnja Nesek Adam, and Darinka Tunjić Pejak. SEPSIS DEFINITION: WHAT’S NEW IN THE TREATMENT GUIDELINES.
+Acta Clin Croat (Suppl. 1) 2022; 61:67-72. doi: 10.20471/acc.2022.61.s1.11.
+
+16. Gizem Polat, Rustem Anil Ugan, Elif Cadirci, Zekai Halici. Sepsis and Septic Shock: Current Treatment Strategies and 
+New Approaches. Eurasian J Med 2017; 49:53-8. DOI 10.5152/eurasianjmed.2017.17062.
+
+17. (Guidelines) Stan Deresinski, Jose Montoya, Emily Mui. Severe Sepsis and Septic Shock Antibiotic Guide. Stanford Health,
+05/2017, Stanford Antimicrobial Safety and Sustainability Program. 
+
+18. (Review) Michiel Schinkel et al. Timeliness of antibiotics for patients with sepsis and septic shock. 
+J Thorac Dis 2020;12(Suppl 1):S66-S71. http://dx.doi.org/10.21037/jtd.2019.10.35.
+
+19. (Review) Bishal Gyawali, Karan Ramakrishna, and Amit S Dhamoon. Sepsis: The evolution in definition, 
+pathophysiology, and management. SAGE Open Medicine (7):1–13 2019. 
+
+20. (Review) Jaskirat Arora, Asher A. Mendelson, and Alison Fox-Robichaud.Sepsis: network pathophysiology and implications for 
+early diagnosis. Am J Physiol Regul Integr Comp Physiol 324: R613–R624, 2023. doi:10.1152/ajpregu.00003.2023.
+
+21. Jarczak D, Kluge S and Nierhaus A (2021) Sepsis—Pathophysiology and Therapeutic Concepts. Front. Med. 8:628302.
+doi: 10.3389/fmed.2021.628302
+
+22. Pant et al. Advances in sepsis diagnosis and management: a paradigm shift towards nanotechnology. J Biomed Sci (2021) 28:6 
+https://doi.org/10.1186/s12929-020-00702-6.
+
+23. (Review) Jyotirmoy Gupta et al. Investigating computational models for diagnosis and prognosis of sepsis
+based on clinical parameters: Opportunities, challenges, and future research directionsJournal of Intensive Medicine 4 (2024) 468–477.
+https://doi.org/10.1016/j.jointm.2024.04.006.
